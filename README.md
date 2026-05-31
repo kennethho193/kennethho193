@@ -1,6 +1,6 @@
 # Greetings, I'm Kenneth!
 
-### M.S. Bioinformatics Student | Computational Genomics Researcher
+### M.S. Bioinformatics Student | Computational Genomics & Data Science
 
 I am an incoming Master's student in Bioinformatics at Boston University (Fall 2026), with hands-on experience in **RNA-seq pipelines**, *de novo* transcriptome assembly, and population genomics. My work at the UAB Dolby Lab focused on desert rattlesnake venom gene characterization, comparative transcriptomics, and demographic modeling — all in HPC/SLURM environments. I'm now expanding into machine learning applications in genomics and reproducible pipeline development.
 
