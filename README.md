@@ -1,4 +1,4 @@
-# Greetings, I'm Kenneth!
+# Hi Hello, I'm Kenneth!
 
 ### M.S. Bioinformatics Student | Computational Genomics & Data Science
 
