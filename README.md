@@ -46,8 +46,8 @@ I am an incoming Master's student in Bioinformatics at Boston University (Fall 2
 
 | Repo | Description |
 |------|-------------|
-| [cdc-health-disparities-dashboard](https://github.com/kennethho193/cdc-health-disparities-dashboard) | Multi-source pipeline (CDC PLACES, Census ACS, USDA Food Atlas) analyzing social determinants of chronic disease across 3,000+ US counties; OLS & spatial regression with interactive choropleth dashboard |
-| [nfl-aging-curves](https://github.com/kennethho193/nfl-aging-curves) | Longitudinal mixed-effects models on NFL skill position aging across 1,501 players and 5,480 seasons; z-score standardized EPA, survivorship bias correction, position-specific peak age identification |
+| [cdc-health-disparities-dashboard](https://github.com/kennethho193/cdc-health-disparities) | Multi-source pipeline (CDC PLACES, Census ACS, USDA Food Atlas) analyzing social determinants of chronic disease across 3,000+ US counties; OLS & spatial regression with interactive choropleth dashboard |
+| [nfl-aging-curves](https://github.com/kennethho193/nfl-aging-curve) | Longitudinal mixed-effects models on NFL skill position aging across 1,501 players and 5,480 seasons; z-score standardized EPA, survivorship bias correction, position-specific peak age identification |
 | [rosalind-solutions](https://github.com/kennethho193/rosalind-solutions) | Bioinformatics algorithm problems in Python *(in progress)* |
 
 
